@@ -3,7 +3,7 @@
 <p align="justify">Building a REST API using Laravel 9. And implement authentication using API keys with Laravel Sanctum.</p>
 •   Author: <a href="https://abby2727.github.io/my-portfolio/"> Abdul Pangandaman </a> <br>
 •   Twitter: <a href="https://twitter.com/abby_2727"> @abby_2727 </a> <br>
-•   Instagram: <a href="https://www.instagram.com/abbyyyyys_/"> @abbyyyyys_ </a> <br> <br>
+•   Instagram: <a href="https://www.instagram.com/abbyyyyys_/"> @abbyyyyys_ </a> <br>
 
 ## Requirement
 •   PHP 8.0.2 or higher
