@@ -9,7 +9,7 @@
 •   PHP 8.0.2 or higher
 
 ## Installation
-Setting up your development environment on your local machine: <br>
+Setting up your development environment on your local machine:
 ```
 git clone https://github.com/abby2727/laravel-rest-api.git
 cd laravel-rest-api
@@ -30,3 +30,6 @@ DB_DATABASE=laravel_rest_api
 DB_USERNAME={USERNAME}
 DB_PASSWORD={PASSWORD}
 ```
+## Note:
+•   It doesn't contain any frontend.
+•   I'am using a Postman platform for testing my API.
