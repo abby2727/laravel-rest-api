@@ -31,5 +31,5 @@ DB_USERNAME={USERNAME}
 DB_PASSWORD={PASSWORD}
 ```
 ## Note:
-•   It doesn't contain any frontend.
+•   It doesn't contain any frontend. <br>
 •   I'am using a Postman platform for testing my API.
